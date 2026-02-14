@@ -1,0 +1,13 @@
+# Whisper Desktop Application Requirements
+
+# Core dependencies
+openai-whisper>=20231117
+numpy>=1.23.0
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Optional: For faster processing
+# faster-whisper>=0.10.0
+
+# GUI (included with Python)
+# tkinter (usually comes with Python)
